@@ -12,5 +12,5 @@ jobs:
       uses: Azure/pipelines@v1
       with:
         azure-devops-project-url: https://dev.azure.com/clouduserp459b897b/MyFirstProject
-        azure-pipeline-name: '<PIPELINE_NAME>'
+        azure-pipeline-name: 'cterpening.actions'
         azure-devops-token: ${{ secrets.AZURE_DEVOPS_TOKEN }}
